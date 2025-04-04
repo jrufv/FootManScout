@@ -1,0 +1,11 @@
+Package: FootManScout
+Title: Análisis de datos estadísticos en FM23
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jordi", "Ruf-Vilches", , "jordiruf@gmail.com", 
+    role = c("aut", "cre"))
+Description: FootManScout proporciona herramientas estadísitcas para realizar la labor de scout basándose en las estadísticas de los jugadores.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
