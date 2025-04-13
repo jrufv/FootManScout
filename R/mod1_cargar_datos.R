@@ -13,7 +13,7 @@ cargar_datosUI <- function(id) {
 
     sidebarPanel(
 
-      with = 2,
+      width = 2,
 
       "CARGAR DATOS",
 
@@ -29,6 +29,8 @@ cargar_datosUI <- function(id) {
       ),
 
     mainPanel(
+
+      width = 10,
 
       tabsetPanel(
 
